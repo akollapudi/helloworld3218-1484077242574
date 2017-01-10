@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: helloworld3218
+  host: helloworld3218
+  disk_quota: 1024M
